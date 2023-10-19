@@ -1,0 +1,62 @@
+
+body{
+  margin: 30px;
+ 
+}
+
+.book-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:rgb(203, 242, 242);
+    padding-top:  30px; 
+    padding-bottom:  30px; 
+    
+    
+  }
+  .page-header{
+    padding-left: 600px;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  
+  .book-poster {
+    width: 360px;
+    height: 370px;
+    margin-right: 50px;
+    border-radius: 30px;
+  }
+  
+  .book-details {
+    width: 400px;
+  }
+  
+  h1, h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .black-container {
+    padding-left: 600px;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: red;
+    background-color: transparent;
+  }

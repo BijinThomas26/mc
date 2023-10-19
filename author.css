@@ -1,0 +1,55 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:270px ;
+    border-radius: 20px;
+    height: 300px;
+  }
+  .about{
+    padding-left: 70px;
+    padding-right: 70px;
+
+  }
+  .about-container{
+    margin-top: 170px;
+
+    background-color:rgb(244, 248, 248);
+    padding-top: 40px;
+    border-radius: 30px;
+    padding-bottom: 40px;
+    
+    
+  }.author{
+    padding-left: 43%;
+  }
+  ul {
+    white-space: nowrap;
+  }
+  
+  ul, li {
+    list-style: none;
+    display: inline;scroll-behavior: smooth;
+    
+  }
+  .poster{
+    height: 300px;
+    width: 500px;
+    padding-right: 20px;
+    border-radius:50px
+
+  }
+  .section{
+    margin-left: 20px;
+
+    overflow-x:scroll;
+    white-space:nowrap;
+  }
+  body{
+    background-image: url('https://imageservice.sky.com/contentid/A5EK6sKrAayc6JoKryAtJ/LAND_16_9?language=eng&territory=GB&proposition=NOWTV&version=4aaf931c-5bda-3987-aac7-98f402d3726e');
+    
+   
+    padding: 30px;
+  }
+  
